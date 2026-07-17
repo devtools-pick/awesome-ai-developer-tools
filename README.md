@@ -78,6 +78,7 @@ Platforms for building, deploying, and consuming AI models via APIs.
 | [Groq](https://groq.com) | Ultra-fast LLM inference using custom LPU hardware. Hosts open-source models (Llama, Mixtral) at exceptional speeds. | Free tier / Paid |
 | [Together AI](https://www.together.ai) | Platform for running and fine-tuning open-source models (Llama, Mistral, FLUX) with competitive pricing. | Pay-per-use |
 | [Replicate](https://replicate.com) | Run and deploy open-source ML models via simple API. Great for image generation, audio, and video models. | Pay-per-use |
+| [RunAPI](https://runapi.ai) | Unified API for LLM, image, video, music, and audio generation, with SDKs, CLI, MCP server, and installable skills. | Pay-as-you-go |
 | [Hugging Face Inference](https://huggingface.co/inference-api) | Access thousands of open-source models via API with free tier. Hub for model discovery and deployment. | Free tier / Paid |
 | [Fireworks AI](https://fireworks.ai) | Fast inference platform for open-source models with function calling, structured output, and fine-tuning support. | Pay-per-use |
 | [Cohere](https://cohere.com) | Enterprise AI platform for text generation, embeddings, reranking, and retrieval-augmented generation (RAG). | Pay-per-use |
