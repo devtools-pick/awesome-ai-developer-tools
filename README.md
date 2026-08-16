@@ -114,6 +114,7 @@ Tools for testing, evaluating, and validating AI-powered applications.
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web/mobile QA agent with persistent test memory and self-healing flows; includes a dashboard, CLI, MCP server, and coding-agent skills. | Free |
 | [Pytest + LangChain Evaluators](https://python.langchain.com/docs/guides/evaluation/) | Combine pytest with LangChain's evaluation framework for systematic LLM output testing in CI/CD pipelines. | Free (open-source) |
 | [DeepEval](https://github.com/confident-ai/deepeval) | Open-source LLM evaluation framework with 14+ metrics (hallucination, bias, toxicity, relevancy). Integrates with pytest. | Free (open-source) |
 | [Ragas](https://github.com/explodinggradients/ragas) | Evaluation framework specifically for RAG pipelines. Measures faithfulness, answer relevancy, and context precision. | Free (open-source) |
