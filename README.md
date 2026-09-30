@@ -142,6 +142,7 @@ High-quality AI tools with generous free tiers or fully open-source alternatives
 | [SearXNG](https://docs.searxng.org) | Privacy-respecting metasearch engine that can be used as a tool for AI agents. Self-hosted. | Free (open-source) |
 | [LangChain](https://langchain.com) | Framework for building applications with LLMs. Chains, agents, retrieval, and tool use. Python and JS. | Free (open-source) |
 | [LlamaIndex](https://www.llamaindex.ai) | Data framework for connecting LLMs with external data. Build RAG pipelines over documents, APIs, and databases. | Free (open-source) |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha Rust CLI and MCP knowledge store for agent notes and task handoffs, with encrypted append-only records and scoped, expiring grants. | Free (open-source) |
 | [Vercel AI SDK](https://sdk.vercel.ai) | Open-source library for building AI-powered streaming UIs with React/Next.js. Supports multiple providers. | Free (open-source) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Unified API for 100+ LLM providers. OpenAI-compatible proxy with cost tracking and load balancing. | Free (open-source) |
 | [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Popular Gradio-based UI for running local LLMs with multiple backends (llama.cpp, ExLlama, Transformers). | Free (open-source) |
