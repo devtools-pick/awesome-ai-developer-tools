@@ -82,6 +82,7 @@ Platforms for building, deploying, and consuming AI models via APIs.
 | [Fireworks AI](https://fireworks.ai) | Fast inference platform for open-source models with function calling, structured output, and fine-tuning support. | Pay-per-use |
 | [Cohere](https://cohere.com) | Enterprise AI platform for text generation, embeddings, reranking, and retrieval-augmented generation (RAG). | Pay-per-use |
 | [Deepseek API](https://platform.deepseek.com) | Cost-effective API for Deepseek Coder and Deepseek V2 models. Strong coding and reasoning at very low prices. | Pay-per-use |
+| [SandBase](https://www.sandbase.ai/docs/getting-started/quickstart) | One API key for OpenAI-compatible language model calls, multimodal generation, and data APIs. | Pay-per-use |
 
 > 📖 **Read the full comparison:** [Best AI API Platforms for Developers](https://devtools-pick.vercel.app/categories/ai-api-platforms)
 
